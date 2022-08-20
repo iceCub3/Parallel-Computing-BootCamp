@@ -5,10 +5,10 @@ From UC berkeley, UIUC, CMU, MIT, Argonne, etc.
 
 ###UC Berkeley###
 
-- [ ] CS 267: Applications of Parallel Computers [video](https://www.youtube.com/watch?v=pGFtiGW8QU0&list=PLYTiwx6hV33v8iWdAUNMmTaOX14O2CQfo) [homepage](http://www.cs.berkeley.edu/~carazvan/cs267.spr14/)
-- [ ] CS294: Modern Parallel Languages [homepage](http://www.cs.berkeley.edu/~yelick/cs294-f13/#staff)
+- [ ] CS 267: Applications of Parallel Computers [video](https://www.youtube.com/watch?v=pGFtiGW8QU0&list=PLYTiwx6hV33v8iWdAUNMmTaOX14O2CQfo) [~~homepage~~](http://www.cs.berkeley.edu/~carazvan/cs267.spr14/)
+- [ ] ~~CS294: Modern Parallel Languages~~ [homepage](http://www.cs.berkeley.edu/~yelick/cs294-f13/#staff)
 - [ ] Parallel Training at Berkeley, 2013 [video](http://www.youtube.com/playlist?list=PLImGd8Yga0-mTfrAa8qgJhssfOtJLOSwj)
-- [ ] BerkeleyX: ASPIRE101x ASPIRE Short Course on Parallel Programming [homepage](https://edge.edx.org/courses/BerkeleyX/ASPIRE101x/2014_2015/about)
+- [ ] ~~BerkeleyX: ASPIRE101x ASPIRE Short Course on Parallel Programming~~ [homepage](https://edge.edx.org/courses/BerkeleyX/ASPIRE101x/2014_2015/about)
 
 ###UIUC####
 - [ ] CS 425/ECE 428: Distributed Systems [homepage](https://courses.engr.illinois.edu/cs425/fa2013/index.html)
@@ -26,7 +26,7 @@ From UC berkeley, UIUC, CMU, MIT, Argonne, etc.
 - [ ] Heterogeneous Parallel Programming [video](https://www.coursera.org/course/hetero)
 
 ###NVIDIA and UC Davis###
-- [ ] Intro to Parallel Programming - Using CUDA to Harness the Power of GPUs [video](https://www.udacity.com/course/cs344)
+- [ ] ~~Intro to Parallel Programming - Using CUDA to Harness the Power of GPUs~~ [video](https://www.udacity.com/course/cs344)
 
 ###RICE###
 - [ ] COMP 422: Parallel Computing Spring 2014 [homepage](https://www.clear.rice.edu/comp422/lecture-notes/index.html)
@@ -42,20 +42,20 @@ From UC berkeley, UIUC, CMU, MIT, Argonne, etc.
 - [ ] MIT 6.172: Performance Engineering of Software Systems [homepage](http://stellar.mit.edu/S/course/6/fa14/6.172/materials.html)
 
 ###CMU###
-- [ ] CMU 15-418: Parallel Computer Architecture and Programming, 2014 Spring [homepage](http://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=“6f8dfe4c-565f-4642-ae71-1a9f587311c6")
+- [ ] ~~CMU 15-418: Parallel Computer Architecture and Programming, 2014 Spring~~ [homepage](http://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=“6f8dfe4c-565f-4642-ae71-1a9f587311c6")
 - [ ] CMU 15-499: Parallel Algorithms [homepage](http://www.cs.cmu.edu/afs/cs/academic/class/15499-s09/www/)
-- [ ] CMU 15-210: Parallel and Sequential Data Structures and Algorithms  [homepage](http://www.cs.cmu.edu/~15210/schedule.html)
+- [ ] ~~CMU 15-210: Parallel and Sequential Data Structures and Algorithms~~  [homepage](http://www.cs.cmu.edu/~15210/schedule.html)
 
 ###Washington###
-- [ ] CSE/ESE 569M: Parallel Architectures and Algorithms [homepage](http://research.engineering.wustl.edu/~songtian/)
-- [ ] CSE 341/CSE 549: Parallel and Sequential Algorithms [homepage](http://www.classes.cec.wustl.edu/~cse341/web/)
+- [ ] ~~CSE/ESE 569M: Parallel Architectures and Algorithms~~ [homepage](http://research.engineering.wustl.edu/~songtian/)
+- [ ] ~~CSE 341/CSE 549: Parallel and Sequential Algorithms~~ [homepage](http://www.classes.cec.wustl.edu/~cse341/web/)
 
 
 ###VSCSE###
 - [ ] Virtual School of Computational Science and Engineering [homepage](http://vscse.org/)
 
 ###UT Knoxville###
-- [ ] COSC 594: Scientific Computing for Engineers [homepage](http://web.eecs.utk.edu/~dongarra/WEB-PAGES/SPRING-2014/cs594-2014.htm)
+- [ ] COSC 594: Scientific Computing for Engineers [homepage](https://netlib.org/utk/people/JackDongarra/WEB-PAGES/SPRING-2020/cs594-2020.html)
 
  
 ###TACC###
